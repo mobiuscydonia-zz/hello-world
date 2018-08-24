@@ -1,2 +1,2 @@
 # hello-world
-For Nicco to get acquainted with GitHub
+Hey there. Trying to establish a new GitHub setup on my mac.
